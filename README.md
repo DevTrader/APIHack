@@ -13,4 +13,8 @@ The users are able to browse through the missions, visualize their location on a
 
 You can access the live version of this project [here](https://devtrader.github.io/RocketFinder/).
 
+### Technology
+
+RocketFinder is utilizing AJAX requests to launchlibrary.net API and displaying results on WebGL Earth API
+
 
