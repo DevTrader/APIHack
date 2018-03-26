@@ -41,13 +41,13 @@ footer{
   }
 
   #startScreen>h1{
-    font-size: 7.56vw;
+    font-size: 30px;
     width: 70vw;
   }
 
   #startScreen>p{
     width: 70vw;
-    font-size: 5.56vw;
+    font-size: 20px;
   }
 
   #startScreen>p, #startScreen>h1{
